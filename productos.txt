@@ -1,0 +1,4 @@
+Jean Paul Gaultier Le Male Elixir,2000,3
+Jean Paul Gaultier Le Male Le Parfum,20000,8
+Jean Paul Gaultier Le Beau,3000,9
+Dior,10,20
